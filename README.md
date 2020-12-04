@@ -1,2 +1,2 @@
 # CoderEmoji
-Some funny expression gif specially for programmer！
+Some funny expression gif with a special group called programmers！
